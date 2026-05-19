@@ -1,0 +1,19 @@
+# Entornos virtuales (¡Muy importante no subir esto!)
+venv/
+.venv/
+env/
+ENV/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración del editor (opcional)
+.vscode/
+.idea/
+
+# Archivos de compilación de Kivy (si luego usas Buildozer para Android)
+.buildozer/
+bin/
